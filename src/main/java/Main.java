@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String args[]){
+
+        //calculate factorial (n!)
         int i, factorialNumber = 1;
         int number = 4;
         for (i=1; i <= number; i++){
