@@ -1,4 +1,4 @@
-//6. Given a positive float number, print its decimal part. For example, given the number 2.31, the output should be 0.31.
+package Algorithms;//6. Given a positive float number, print its decimal part. For example, given the number 2.31, the output should be 0.31.
 
 public class floatDecimalPart {
 

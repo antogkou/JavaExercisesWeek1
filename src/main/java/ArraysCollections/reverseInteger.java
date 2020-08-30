@@ -1,7 +1,7 @@
-package arraysCollections;
-//Write a program that returns the digits of number in
-//descending order
-public class reverseDigits {
+package ArraysCollections;
+
+//2. Write a program that returns the digits of number in descending order
+public class reverseInteger {
 
 
     public static void main (String[] args)
@@ -11,8 +11,6 @@ public class reverseDigits {
                 + reversDigits(num));
     }
 
-    /* Iterative function to reverse
-      digits of num*/
     static int reversDigits(int num)
     {
         int rev_num = 0;

@@ -1,3 +1,5 @@
+package Algorithms;
+
 //4. Write a program that, for a given n, it calculates the following value: 1 + ½ + ⅓ + … + 1/n.
 public class calculateValue1n {
 

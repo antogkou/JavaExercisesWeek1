@@ -1,8 +1,10 @@
+package Algorithms;
+
 import java.util.Scanner;
+//1. Write a program that calculates the factorial of a number n
 
 public class calculateFactorial {
     public static void main(String[] args){
-        //1. Write a program that calculates the factorial of a number n
 
         int i, factorialNumber = 1;
 
