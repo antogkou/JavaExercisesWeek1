@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class primeCheck {
     int number = 0;
 
-    public static void main(String[] args) {
+    public static void main() {
         Scanner in = new Scanner(System.in);
         int number, i, a = 0;
 

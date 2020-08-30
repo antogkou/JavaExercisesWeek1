@@ -3,7 +3,7 @@ package Algorithms;
 //4. Write a program that, for a given n, it calculates the following value: 1 + ½ + ⅓ + … + 1/n.
 public class calculateValue1n {
 
-    public static void main(String[] args) {
+    public static void main() {
         int n = 5;
         System.out.println(sum(n));
     }

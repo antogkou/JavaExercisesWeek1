@@ -2,7 +2,7 @@ package Algorithms;//6. Given a positive float number, print its decimal part. F
 
 public class floatDecimalPart {
 
-    public static void main(String[] args) {
+    public static void main() {
 
         float number = (float) 2.34454;
         String floatAsString = String.valueOf(number);
